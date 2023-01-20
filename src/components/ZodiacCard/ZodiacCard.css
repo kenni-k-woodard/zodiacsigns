@@ -1,0 +1,21 @@
+.card {
+  border: 5px solid white;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: rgba(149, 71, 221, 0.338);
+}
+
+.name {
+  font-size: 25px;
+  color: rgb(108, 209, 216);
+}
+
+.dates {
+  color: antiquewhite;
+}
+
+.symbol {
+  color: rgb(235, 154, 241);
+  background-color: blueviolet;
+}
